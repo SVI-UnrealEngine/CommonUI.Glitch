@@ -5,9 +5,9 @@ icon: "/static/hand.png"
 
 ---
 
-# IMMERSE UI
+# CUSTOM COMMON UI
 
-**It is a changeable, manageable user interface consisting of separate independent sections, each page of which can be linked to the 3D scene.**
+**It is a customized Common UI, manageable user interface consisting of separate independent sections, each page of which can be linked to the 3D scene.**
 
 
 ![](/static/skyview-gray.png)

@@ -2,7 +2,7 @@ input: .
 output: docs
 url: https://svi-unrealengine.github.io/ImmerseUI/
 branding:
-  title: Immerse UI
+  title: CustomCommon UI
   label: V1.0
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

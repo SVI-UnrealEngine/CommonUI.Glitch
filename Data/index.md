@@ -1,21 +1,18 @@
 ---
-label: Data
+label: Screen Management
 order: 85
 icon: "/static/puzzle.png"
 ---
 
 # Datatable Driven Structure
 
-All of child section is generated with Datatables. Datatable can be changed in `WBP_UserInterface`-> `Detail Panel`-> `Datatable Section`
-
-
 !!!
-Data Load or Override : changing data dynamicly require  a custom SaveGame class with correspondent variables
+- All data pulled in datatables, the load slot is dynamic because of that we load with a custom SaveGame class
 !!!
 
 
-[!ref icon="/static/add.png"](chapter.md)
-[!ref icon="/static/add.png"](shop.md)
-[!ref icon="/static/add.png"](achievement.md)
-[!ref icon="/static/add.png"](character.md)
+[!ref icon="/static/add.png"](startscreen.md)
+[!ref icon="/static/add.png"](genericscreen.md)
+[!ref icon="/static/add.png"](screenusage.md)
+[!ref icon="/static/add.png"](gamemode.md)
 

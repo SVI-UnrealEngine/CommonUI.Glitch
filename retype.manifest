@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-03-04T11:35:00Z",
+  "created": "2024-05-22T14:22:02Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,22 +9,39 @@
       "path": "404.html"
     },
     {
-      "path": "api/index.html"
+      "path": "api/index.html",
+      "old": true
     },
     {
-      "path": "data/achievement/index.html"
+      "path": "data/achievement/index.html",
+      "old": true
     },
     {
-      "path": "data/chapter/index.html"
+      "path": "data/chapter/index.html",
+      "old": true
     },
     {
-      "path": "data/character/index.html"
+      "path": "data/character/index.html",
+      "old": true
+    },
+    {
+      "path": "data/gamemode/index.html"
+    },
+    {
+      "path": "data/genericscreen/index.html"
     },
     {
       "path": "data/index.html"
     },
     {
-      "path": "data/shop/index.html"
+      "path": "data/screenusage/index.html"
+    },
+    {
+      "path": "data/shop/index.html",
+      "old": true
+    },
+    {
+      "path": "data/startscreen/index.html"
     },
     {
       "path": "docs/404.html",
@@ -686,13 +703,16 @@
       "path": "static/world-cup.png"
     },
     {
-      "path": "updatedata/achievementupdate/index.html"
+      "path": "updatedata/achievementupdate/index.html",
+      "old": true
     },
     {
-      "path": "updatedata/chapterupdate/index.html"
+      "path": "updatedata/chapterupdate/index.html",
+      "old": true
     },
     {
-      "path": "updatedata/index.html"
+      "path": "updatedata/index.html",
+      "old": true
     }
   ]
 }
