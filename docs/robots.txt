@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svi-unrealengine.github.io/ImmerseUI/sitemap.xml.gz
