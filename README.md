@@ -1,2 +1,2 @@
-# ImmerseUI
-Immerse Game Ready Menu UI for Unreal Engine
+# CommonUI.Glitch
+CommonUI Game Ready Menu UI for Unreal Engine
